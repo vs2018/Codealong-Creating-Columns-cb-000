@@ -88,19 +88,19 @@ img, video, audio {
 .col-1 {
   float: left;
   width: 32%;
-    background-color: #eee;
+    background-color: #ccc;
 
 }
 
 .col-2 {
   float: left;
   width: 66%;
-    background-color: #eee;
+    background-color: #ccc;
 
 }
 
 .col-3 {
-  background: #eee;
+  background: #ccc;
 }
 
 [class*="col-"] {
