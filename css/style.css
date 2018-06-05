@@ -97,6 +97,10 @@ figcaption {
   background: #eee;
 }
 
+[class*="col-"] {
+  margin-left: 2%;
+}
+
 
 
 
