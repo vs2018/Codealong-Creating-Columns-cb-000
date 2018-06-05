@@ -103,14 +103,6 @@ img, video, audio {
   background: #ccc;
 }
 
-[class*="col-"] {
-  margin-left: 2%;
-}
-
-.first {
-  margin-left: 0%;
-}
-
 .clearfix:after {
   content: ".";
   display:block;
@@ -119,6 +111,16 @@ img, video, audio {
   height: 0;
   line-height: 0;
 }
+
+
+[class*="col-"] {
+  margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
+}
+
 
 
 
